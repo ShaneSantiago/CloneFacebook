@@ -4,7 +4,6 @@
 <h1 align='center'id="top"> :rocket: == Clone do Facebook == :rocket: </h1>
 
 
-
 <!-- PROJECT SOBRE -->
 <h2 id="sobre">:notebook: Sobre </h2>
 
